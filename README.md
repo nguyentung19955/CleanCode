@@ -14,6 +14,7 @@
       tạp sẽ học và áp dụng trong tình huống phù hợp. Cân bằng giữa tiến độ và clean code.
 
 Nếu bạn là team lead bạn sẽ chọn phương án nào? Giải thích tại sao?
+
 => Nếu là team lead tôi sẽ chọn phương án của Team C
 vì như vậy thì code sẽ đảm bảo được clean code ở 1 mức nhất định mà lại không trễ deadline của khách hàng.
 
