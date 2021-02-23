@@ -13,7 +13,8 @@
     - Team C: Áp dụng Clean Code là một quá trình. Quy tắc nào dễ hiểu, dễ nhớ thì áp dụng trước. Những kỹ thuật phức
       tạp sẽ học và áp dụng trong tình huống phù hợp. Cân bằng giữa tiến độ và clean code.
 
-Nếu bạn là team lead bạn sẽ chọn phương án nào? Giải thích tại sao? => Nếu là team lead tôi sẽ chọn phương án của Team C
+Nếu bạn là team lead bạn sẽ chọn phương án nào? Giải thích tại sao?
+=> Nếu là team lead tôi sẽ chọn phương án của Team C
 vì như vậy thì code sẽ đảm bảo được clean code ở 1 mức nhất định mà lại không trễ deadline của khách hàng.
 
 3. Bạn là một team lead, khi bạn giới thiệu các quy tắc Clean Code cho các đồng đội trẻ. Có một số bạn cho rằng Clean
